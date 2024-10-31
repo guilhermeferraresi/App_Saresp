@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\appsaresp_2024\\appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\appsaresp_2024\\appsaresp_2024\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\appsaresp_2024\\appsaresp_2024\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\appsaresp_2024\\appsaresp_2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Models\\Professor.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Models\\Professor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:34:25.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:34:15.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:32:49.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:32:28.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
