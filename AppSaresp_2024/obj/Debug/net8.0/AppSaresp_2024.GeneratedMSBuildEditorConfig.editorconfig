@@ -18,12 +18,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\55119\OneDrive\Atividades ETEC\DS\AppSaresp_2024\AppSaresp_2024
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Aluno/AtualizarAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQXR1YWxpemFyQWx1bm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Aluno/CadastrarAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQ2FkYXN0cmFyQWx1bm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Aluno/DetalhesAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cRGV0YWxoZXNBbHVuby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Aluno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Professor/AtualizarProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXEF0dWFsaXphclByb2Zlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Professor/CadastrarProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXENhZGFzdHJhclByb2Zlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Professor/DetalhesProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXERldGFsaGVzUHJvZmVzc29yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Professor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55119/OneDrive/Atividades ETEC/DS/AppSaresp_2024/AppSaresp_2024/Views/Shared/Error.cshtml]

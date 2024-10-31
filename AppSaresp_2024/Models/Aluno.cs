@@ -5,7 +5,7 @@ namespace AppSaresp_2024.Models
     public class Aluno
     {
         [Display(Name = "Código")]
-        public int? idProfessor { get; set; }
+        public int? IdAluno { get; set; }
 
         [Display(Name = "Nome Completo")]
         [Required(ErrorMessage = "O campo nome é obrigatório")]
@@ -13,8 +13,23 @@ namespace AppSaresp_2024.Models
 
         [Display(Name = "Telefone")]
         [Required(ErrorMessage = "O campo Telefone é obrigatório")]
-        public string telefone { get; set; }
+        public Decimal telefone { get; set; }
 
+        [Display(Name = "Email")]
+        [Required(ErrorMessage = "O campo email é obrigatório")]
+        public string email { get; set; }
 
+        [Display(Name = "Turma")]
+        [Required(ErrorMessage = "O campo Turma é obrigatório")]
+        public string turma { get; set; }
+
+        [Display(Name = "Sala")]
+        [Required(ErrorMessage = "O campo Sala é obrigatório")]
+        public string serie { get; set; }
+
+        [Display(Name = "Nascimento")]
+        [Required(ErrorMessage = "O campo nascimento é obrigatório")]
+        [DataType(DataType.DateTime)]
+        public DateTime data_nasc { get; set; }
     }
 }

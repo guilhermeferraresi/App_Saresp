@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppSaresp_2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11c4786eb4233089f9cdccbce9e1c660812532d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppSaresp_2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppSaresp_2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

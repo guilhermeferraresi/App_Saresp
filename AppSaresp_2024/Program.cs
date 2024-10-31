@@ -1,7 +1,15 @@
+using AppSaresp_2024.Repository;
+using AppSaresp_2024.Repository.Contract;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Adicionando a interface como serviço
+builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
+
+builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
 
 var app = builder.Build();
 
@@ -21,3 +29,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
